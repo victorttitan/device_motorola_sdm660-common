@@ -536,7 +536,7 @@
 
     <!-- Default color temperature, in Kelvin, to tint the screen when Night display is
          activated. -->
-    <integer name="config_nightDisplayColorTemperatureDefault">3850</integer> 
+    <integer name="config_nightDisplayColorTemperatureDefault">3350</integer> 
 
     <!-- Turn on LiveDisplay auto mode by default -->
     <integer name="config_defaultLiveDisplayMode">0</integer>
